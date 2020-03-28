@@ -67,7 +67,8 @@ margin: 0;
 }
 
 .content{
-    top: 10px;
-    left: 15px;
-    right: 15px;
+	font-family: arial;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-right: 10px;
 }
